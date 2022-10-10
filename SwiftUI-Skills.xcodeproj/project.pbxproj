@@ -21,6 +21,8 @@
 		F7C9C6C028F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6BE28F3FC2E008D76BB /* DragGestureBootcamp.swift */; };
 		F7C9C6C228F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6C128F4099D008D76BB /* DragGestureBootcamp2.swift */; };
 		F7C9C6C328F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6C128F4099D008D76BB /* DragGestureBootcamp2.swift */; };
+		F7C9C6C528F46ECB008D76BB /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6C428F46ECB008D76BB /* ScrollViewReaderBootcamp.swift */; };
+		F7C9C6C628F46ECB008D76BB /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6C428F46ECB008D76BB /* ScrollViewReaderBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,7 @@
 		F7C9C6BB28F3F9F0008D76BB /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		F7C9C6BE28F3FC2E008D76BB /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		F7C9C6C128F4099D008D76BB /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
+		F7C9C6C428F46ECB008D76BB /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,7 @@
 				F7C9C6BB28F3F9F0008D76BB /* RotationGestureBootcamp.swift */,
 				F7C9C6BE28F3FC2E008D76BB /* DragGestureBootcamp.swift */,
 				F7C9C6C128F4099D008D76BB /* DragGestureBootcamp2.swift */,
+				F7C9C6C428F46ECB008D76BB /* ScrollViewReaderBootcamp.swift */,
 				F797E3DF28D8308900144F0B /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -198,6 +202,7 @@
 				F7C9C6C228F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
 				F74D087728D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
 				F7C9C6BF28F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
+				F7C9C6C528F46ECB008D76BB /* ScrollViewReaderBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -211,6 +216,7 @@
 				F7C9C6C328F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
 				F74D087828D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
 				F7C9C6C028F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
+				F7C9C6C628F46ECB008D76BB /* ScrollViewReaderBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
