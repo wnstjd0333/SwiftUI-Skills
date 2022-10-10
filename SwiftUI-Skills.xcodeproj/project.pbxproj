@@ -17,6 +17,10 @@
 		F797E3F228D8308900144F0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F797E3DF28D8308900144F0B /* Assets.xcassets */; };
 		F7C9C6BC28F3F9F0008D76BB /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6BB28F3F9F0008D76BB /* RotationGestureBootcamp.swift */; };
 		F7C9C6BD28F3F9F0008D76BB /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6BB28F3F9F0008D76BB /* RotationGestureBootcamp.swift */; };
+		F7C9C6BF28F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6BE28F3FC2E008D76BB /* DragGestureBootcamp.swift */; };
+		F7C9C6C028F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6BE28F3FC2E008D76BB /* DragGestureBootcamp.swift */; };
+		F7C9C6C228F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6C128F4099D008D76BB /* DragGestureBootcamp2.swift */; };
+		F7C9C6C328F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6C128F4099D008D76BB /* DragGestureBootcamp2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +32,8 @@
 		F797E3EA28D8308900144F0B /* SwiftUI-Skills.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Skills.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F797E3EC28D8308900144F0B /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 		F7C9C6BB28F3F9F0008D76BB /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
+		F7C9C6BE28F3FC2E008D76BB /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
+		F7C9C6C128F4099D008D76BB /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +70,8 @@
 				F797E3DE28D8308800144F0B /* ContentView.swift */,
 				F74D087628D832810031BF5D /* LongPressGestureBootcamp.swift */,
 				F7C9C6BB28F3F9F0008D76BB /* RotationGestureBootcamp.swift */,
+				F7C9C6BE28F3FC2E008D76BB /* DragGestureBootcamp.swift */,
+				F7C9C6C128F4099D008D76BB /* DragGestureBootcamp2.swift */,
 				F797E3DF28D8308900144F0B /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -187,7 +195,9 @@
 				F7C9C6BC28F3F9F0008D76BB /* RotationGestureBootcamp.swift in Sources */,
 				F797E3EF28D8308900144F0B /* ContentView.swift in Sources */,
 				F797E3ED28D8308900144F0B /* SwiftUI_SkillsApp.swift in Sources */,
+				F7C9C6C228F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
 				F74D087728D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
+				F7C9C6BF28F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -198,7 +208,9 @@
 				F7C9C6BD28F3F9F0008D76BB /* RotationGestureBootcamp.swift in Sources */,
 				F797E3F028D8308900144F0B /* ContentView.swift in Sources */,
 				F797E3EE28D8308900144F0B /* SwiftUI_SkillsApp.swift in Sources */,
+				F7C9C6C328F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
 				F74D087828D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
+				F7C9C6C028F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
