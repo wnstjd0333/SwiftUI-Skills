@@ -25,6 +25,8 @@
 		F7C9C6C628F46ECB008D76BB /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6C428F46ECB008D76BB /* ScrollViewReaderBootcamp.swift */; };
 		F7D969B828F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969B728F478C60073A9D7 /* GeometryReaderBootcamp.swift */; };
 		F7D969B928F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969B728F478C60073A9D7 /* GeometryReaderBootcamp.swift */; };
+		F7D969C92900D9EC0073A9D7 /* Placeholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969C82900D9EC0073A9D7 /* Placeholder.swift */; };
+		F7D969CA2900D9EC0073A9D7 /* Placeholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969C82900D9EC0073A9D7 /* Placeholder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +42,7 @@
 		F7C9C6C128F4099D008D76BB /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		F7C9C6C428F46ECB008D76BB /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		F7D969B728F478C60073A9D7 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
+		F7D969C82900D9EC0073A9D7 /* Placeholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Placeholder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,7 @@
 				F7C9C6C428F46ECB008D76BB /* ScrollViewReaderBootcamp.swift */,
 				F7D969B728F478C60073A9D7 /* GeometryReaderBootcamp.swift */,
 				F797E3DF28D8308900144F0B /* Assets.xcassets */,
+				F7D969C82900D9EC0073A9D7 /* Placeholder.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -208,6 +212,7 @@
 				F74D087728D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
 				F7C9C6BF28F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
 				F7C9C6C528F46ECB008D76BB /* ScrollViewReaderBootcamp.swift in Sources */,
+				F7D969C92900D9EC0073A9D7 /* Placeholder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -223,6 +228,7 @@
 				F74D087828D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
 				F7C9C6C028F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
 				F7C9C6C628F46ECB008D76BB /* ScrollViewReaderBootcamp.swift in Sources */,
+				F7D969CA2900D9EC0073A9D7 /* Placeholder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
