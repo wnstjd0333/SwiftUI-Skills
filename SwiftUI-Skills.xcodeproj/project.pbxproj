@@ -31,6 +31,8 @@
 		F7D969CA2900D9EC0073A9D7 /* Placeholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969C82900D9EC0073A9D7 /* Placeholder.swift */; };
 		F7D969CC29036C010073A9D7 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969CB29036C010073A9D7 /* MaskBootcamp.swift */; };
 		F7D969CD29036C010073A9D7 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969CB29036C010073A9D7 /* MaskBootcamp.swift */; };
+		F7D969DF2903810E0073A9D7 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969DE2903810E0073A9D7 /* HapticsBootcamp.swift */; };
+		F7D969E02903810E0073A9D7 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969DE2903810E0073A9D7 /* HapticsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +51,7 @@
 		F7D969BA28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetBootcamp.swift; sourceTree = "<group>"; };
 		F7D969C82900D9EC0073A9D7 /* Placeholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Placeholder.swift; sourceTree = "<group>"; };
 		F7D969CB29036C010073A9D7 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
+		F7D969DE2903810E0073A9D7 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +94,7 @@
 				F7D969CB29036C010073A9D7 /* MaskBootcamp.swift */,
 				F7D969B728F478C60073A9D7 /* GeometryReaderBootcamp.swift */,
 				F7D969BA28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift */,
+				F7D969DE2903810E0073A9D7 /* HapticsBootcamp.swift */,
 				F797E3DF28D8308900144F0B /* Assets.xcassets */,
 				F7D969C82900D9EC0073A9D7 /* Placeholder.swift */,
 			);
@@ -213,6 +217,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F7C9C6BC28F3F9F0008D76BB /* RotationGestureBootcamp.swift in Sources */,
+				F7D969DF2903810E0073A9D7 /* HapticsBootcamp.swift in Sources */,
 				F7D969CC29036C010073A9D7 /* MaskBootcamp.swift in Sources */,
 				F7D969BB28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift in Sources */,
 				F797E3EF28D8308900144F0B /* ContentView.swift in Sources */,
@@ -231,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F7C9C6BD28F3F9F0008D76BB /* RotationGestureBootcamp.swift in Sources */,
+				F7D969E02903810E0073A9D7 /* HapticsBootcamp.swift in Sources */,
 				F7D969CD29036C010073A9D7 /* MaskBootcamp.swift in Sources */,
 				F7D969BC28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift in Sources */,
 				F797E3F028D8308900144F0B /* ContentView.swift in Sources */,
