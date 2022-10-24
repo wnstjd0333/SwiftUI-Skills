@@ -31,6 +31,12 @@
 		F7D969CA2900D9EC0073A9D7 /* Placeholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969C82900D9EC0073A9D7 /* Placeholder.swift */; };
 		F7D969CC29036C010073A9D7 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969CB29036C010073A9D7 /* MaskBootcamp.swift */; };
 		F7D969CD29036C010073A9D7 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969CB29036C010073A9D7 /* MaskBootcamp.swift */; };
+		F7D969CF29037AB40073A9D7 /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969CE29037AB40073A9D7 /* SoundsBootcamp.swift */; };
+		F7D969D029037AB40073A9D7 /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969CE29037AB40073A9D7 /* SoundsBootcamp.swift */; };
+		F7D969DA29037EE40073A9D7 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7D969D829037EE40073A9D7 /* tada.mp3 */; };
+		F7D969DB29037EE40073A9D7 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7D969D829037EE40073A9D7 /* tada.mp3 */; };
+		F7D969DC29037EE40073A9D7 /* duck-quack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7D969D929037EE40073A9D7 /* duck-quack.mp3 */; };
+		F7D969DD29037EE40073A9D7 /* duck-quack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7D969D929037EE40073A9D7 /* duck-quack.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +55,9 @@
 		F7D969BA28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetBootcamp.swift; sourceTree = "<group>"; };
 		F7D969C82900D9EC0073A9D7 /* Placeholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Placeholder.swift; sourceTree = "<group>"; };
 		F7D969CB29036C010073A9D7 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
+		F7D969CE29037AB40073A9D7 /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
+		F7D969D829037EE40073A9D7 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
+		F7D969D929037EE40073A9D7 /* duck-quack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "duck-quack.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +100,8 @@
 				F7D969CB29036C010073A9D7 /* MaskBootcamp.swift */,
 				F7D969B728F478C60073A9D7 /* GeometryReaderBootcamp.swift */,
 				F7D969BA28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift */,
+				F7D969CE29037AB40073A9D7 /* SoundsBootcamp.swift */,
+				F7D969D129037EC50073A9D7 /* Sounds */,
 				F797E3DF28D8308900144F0B /* Assets.xcassets */,
 				F7D969C82900D9EC0073A9D7 /* Placeholder.swift */,
 			);
@@ -112,6 +123,15 @@
 				F797E3EC28D8308900144F0B /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		F7D969D129037EC50073A9D7 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				F7D969D929037EE40073A9D7 /* duck-quack.mp3 */,
+				F7D969D829037EE40073A9D7 /* tada.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,7 +213,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7D969DA29037EE40073A9D7 /* tada.mp3 in Resources */,
 				F797E3F128D8308900144F0B /* Assets.xcassets in Resources */,
+				F7D969DC29037EE40073A9D7 /* duck-quack.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -201,7 +223,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7D969DB29037EE40073A9D7 /* tada.mp3 in Resources */,
 				F797E3F228D8308900144F0B /* Assets.xcassets in Resources */,
+				F7D969DD29037EE40073A9D7 /* duck-quack.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,6 +236,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7D969CF29037AB40073A9D7 /* SoundsBootcamp.swift in Sources */,
 				F7C9C6BC28F3F9F0008D76BB /* RotationGestureBootcamp.swift in Sources */,
 				F7D969CC29036C010073A9D7 /* MaskBootcamp.swift in Sources */,
 				F7D969BB28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift in Sources */,
@@ -230,6 +255,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7D969D029037AB40073A9D7 /* SoundsBootcamp.swift in Sources */,
 				F7C9C6BD28F3F9F0008D76BB /* RotationGestureBootcamp.swift in Sources */,
 				F7D969CD29036C010073A9D7 /* MaskBootcamp.swift in Sources */,
 				F7D969BC28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift in Sources */,
