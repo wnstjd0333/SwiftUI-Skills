@@ -37,6 +37,8 @@
 		F7D969DD29037EE40073A9D7 /* duck-quack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7D969D929037EE40073A9D7 /* duck-quack.mp3 */; };
 		F7D969E42906D9CB0073A9D7 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969E32906D9CB0073A9D7 /* LocalNotificationBootcamp.swift */; };
 		F7D969E52906D9CB0073A9D7 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969E32906D9CB0073A9D7 /* LocalNotificationBootcamp.swift */; };
+		F7D969E72906E0D60073A9D7 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969E62906E0D60073A9D7 /* HashableBootcamp.swift */; };
+		F7D969E82906E0D60073A9D7 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969E62906E0D60073A9D7 /* HashableBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +60,7 @@
 		F7D969D829037EE40073A9D7 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
 		F7D969D929037EE40073A9D7 /* duck-quack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "duck-quack.mp3"; sourceTree = "<group>"; };
 		F7D969E32906D9CB0073A9D7 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
+		F7D969E62906E0D60073A9D7 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +104,7 @@
 				F7D969BA28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift */,
 				F7D969CE29037AB40073A9D7 /* SoundsBootcamp.swift */,
 				F7D969E32906D9CB0073A9D7 /* LocalNotificationBootcamp.swift */,
+				F7D969E62906E0D60073A9D7 /* HashableBootcamp.swift */,
 				F7D969D129037EC50073A9D7 /* Sounds */,
 				F797E3DF28D8308900144F0B /* Assets.xcassets */,
 				F7D969C82900D9EC0073A9D7 /* Placeholder.swift */,
@@ -236,6 +240,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7D969E72906E0D60073A9D7 /* HashableBootcamp.swift in Sources */,
 				F7D969CF29037AB40073A9D7 /* SoundsBootcamp.swift in Sources */,
 				F7C9C6BC28F3F9F0008D76BB /* RotationGestureBootcamp.swift in Sources */,
 				F7D969CC29036C010073A9D7 /* MaskBootcamp.swift in Sources */,
@@ -255,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7D969E82906E0D60073A9D7 /* HashableBootcamp.swift in Sources */,
 				F7D969D029037AB40073A9D7 /* SoundsBootcamp.swift in Sources */,
 				F7C9C6BD28F3F9F0008D76BB /* RotationGestureBootcamp.swift in Sources */,
 				F7D969CD29036C010073A9D7 /* MaskBootcamp.swift in Sources */,
