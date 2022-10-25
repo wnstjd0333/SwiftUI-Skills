@@ -39,6 +39,8 @@
 		F7D969E52906D9CB0073A9D7 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969E32906D9CB0073A9D7 /* LocalNotificationBootcamp.swift */; };
 		F7D969E72906E0D60073A9D7 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969E62906E0D60073A9D7 /* HashableBootcamp.swift */; };
 		F7D969E82906E0D60073A9D7 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969E62906E0D60073A9D7 /* HashableBootcamp.swift */; };
+		F7D969F4290826500073A9D7 /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969F3290826500073A9D7 /* TypealiasBootcamp.swift */; };
+		F7D969F5290826500073A9D7 /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969F3290826500073A9D7 /* TypealiasBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +63,7 @@
 		F7D969D929037EE40073A9D7 /* duck-quack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "duck-quack.mp3"; sourceTree = "<group>"; };
 		F7D969E32906D9CB0073A9D7 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
 		F7D969E62906E0D60073A9D7 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
+		F7D969F3290826500073A9D7 /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,7 @@
 				F7D969CE29037AB40073A9D7 /* SoundsBootcamp.swift */,
 				F7D969E32906D9CB0073A9D7 /* LocalNotificationBootcamp.swift */,
 				F7D969E62906E0D60073A9D7 /* HashableBootcamp.swift */,
+				F7D969F3290826500073A9D7 /* TypealiasBootcamp.swift */,
 				F7D969D129037EC50073A9D7 /* Sounds */,
 				F797E3DF28D8308900144F0B /* Assets.xcassets */,
 				F7D969C82900D9EC0073A9D7 /* Placeholder.swift */,
@@ -249,6 +253,7 @@
 				F7D969B828F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */,
 				F7C9C6C228F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
 				F74D087728D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
+				F7D969F4290826500073A9D7 /* TypealiasBootcamp.swift in Sources */,
 				F7C9C6BF28F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
 				F7C9C6C528F46ECB008D76BB /* ScrollViewReaderBootcamp.swift in Sources */,
 				F7D969C92900D9EC0073A9D7 /* Placeholder.swift in Sources */,
@@ -269,6 +274,7 @@
 				F7D969B928F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */,
 				F7C9C6C328F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
 				F74D087828D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
+				F7D969F5290826500073A9D7 /* TypealiasBootcamp.swift in Sources */,
 				F7C9C6C028F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
 				F7C9C6C628F46ECB008D76BB /* ScrollViewReaderBootcamp.swift in Sources */,
 				F7D969CA2900D9EC0073A9D7 /* Placeholder.swift in Sources */,
