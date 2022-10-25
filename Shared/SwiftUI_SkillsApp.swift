@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_SkillsApp: App {
     var body: some Scene {
         WindowGroup {
-            BackgroundThreadBootcamp()
+            WeakSelfBootcamp()
         }
     }
 }
