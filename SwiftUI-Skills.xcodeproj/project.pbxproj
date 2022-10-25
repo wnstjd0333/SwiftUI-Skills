@@ -41,6 +41,12 @@
 		F7D969E82906E0D60073A9D7 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969E62906E0D60073A9D7 /* HashableBootcamp.swift */; };
 		F7D969F4290826500073A9D7 /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969F3290826500073A9D7 /* TypealiasBootcamp.swift */; };
 		F7D969F5290826500073A9D7 /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969F3290826500073A9D7 /* TypealiasBootcamp.swift */; };
+		F7D969F029081C2A0073A9D7 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969EF29081C2A0073A9D7 /* WeakSelfBootcamp.swift */; };
+		F7D969F129081C2A0073A9D7 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969EF29081C2A0073A9D7 /* WeakSelfBootcamp.swift */; };
+		F7D969ED2908161D0073A9D7 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969EC2908161D0073A9D7 /* BackgroundThreadBootcamp.swift */; };
+		F7D969EE2908161D0073A9D7 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969EC2908161D0073A9D7 /* BackgroundThreadBootcamp.swift */; };
+		F7D969EA2906E4FE0073A9D7 /* ArrayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969E92906E4FE0073A9D7 /* ArrayBootcamp.swift */; };
+		F7D969EB2906E4FE0073A9D7 /* ArrayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969E92906E4FE0073A9D7 /* ArrayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +70,9 @@
 		F7D969E32906D9CB0073A9D7 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
 		F7D969E62906E0D60073A9D7 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 		F7D969F3290826500073A9D7 /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
+		F7D969EF29081C2A0073A9D7 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
+		F7D969EC2908161D0073A9D7 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
+		F7D969E92906E4FE0073A9D7 /* ArrayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,9 +113,12 @@
 				F7C9C6C428F46ECB008D76BB /* ScrollViewReaderBootcamp.swift */,
 				F7D969CB29036C010073A9D7 /* MaskBootcamp.swift */,
 				F7D969B728F478C60073A9D7 /* GeometryReaderBootcamp.swift */,
+				F7D969EC2908161D0073A9D7 /* BackgroundThreadBootcamp.swift */,
 				F7D969BA28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift */,
 				F7D969CE29037AB40073A9D7 /* SoundsBootcamp.swift */,
 				F7D969E32906D9CB0073A9D7 /* LocalNotificationBootcamp.swift */,
+				F7D969EF29081C2A0073A9D7 /* WeakSelfBootcamp.swift */,
+				F7D969E92906E4FE0073A9D7 /* ArrayBootcamp.swift */,
 				F7D969E62906E0D60073A9D7 /* HashableBootcamp.swift */,
 				F7D969F3290826500073A9D7 /* TypealiasBootcamp.swift */,
 				F7D969D129037EC50073A9D7 /* Sounds */,
@@ -250,13 +262,16 @@
 				F7D969CC29036C010073A9D7 /* MaskBootcamp.swift in Sources */,
 				F7D969BB28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift in Sources */,
 				F797E3ED28D8308900144F0B /* SwiftUI_SkillsApp.swift in Sources */,
+				F7D969EA2906E4FE0073A9D7 /* ArrayBootcamp.swift in Sources */,
 				F7D969B828F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */,
 				F7C9C6C228F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
 				F74D087728D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
 				F7D969F4290826500073A9D7 /* TypealiasBootcamp.swift in Sources */,
 				F7C9C6BF28F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
+				F7D969ED2908161D0073A9D7 /* BackgroundThreadBootcamp.swift in Sources */,
 				F7C9C6C528F46ECB008D76BB /* ScrollViewReaderBootcamp.swift in Sources */,
 				F7D969C92900D9EC0073A9D7 /* Placeholder.swift in Sources */,
+				F7D969F029081C2A0073A9D7 /* WeakSelfBootcamp.swift in Sources */,
 				F7D969E42906D9CB0073A9D7 /* LocalNotificationBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -271,13 +286,16 @@
 				F7D969CD29036C010073A9D7 /* MaskBootcamp.swift in Sources */,
 				F7D969BC28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift in Sources */,
 				F797E3EE28D8308900144F0B /* SwiftUI_SkillsApp.swift in Sources */,
+				F7D969EB2906E4FE0073A9D7 /* ArrayBootcamp.swift in Sources */,
 				F7D969B928F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */,
 				F7C9C6C328F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
 				F74D087828D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
 				F7D969F5290826500073A9D7 /* TypealiasBootcamp.swift in Sources */,
 				F7C9C6C028F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
+				F7D969EE2908161D0073A9D7 /* BackgroundThreadBootcamp.swift in Sources */,
 				F7C9C6C628F46ECB008D76BB /* ScrollViewReaderBootcamp.swift in Sources */,
 				F7D969CA2900D9EC0073A9D7 /* Placeholder.swift in Sources */,
+				F7D969F129081C2A0073A9D7 /* WeakSelfBootcamp.swift in Sources */,
 				F7D969E52906D9CB0073A9D7 /* LocalNotificationBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
