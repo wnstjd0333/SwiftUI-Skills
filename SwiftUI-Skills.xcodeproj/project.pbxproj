@@ -53,6 +53,8 @@
 		F7D96A01290CCD360073A9D7 /* CodableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D969FF290CCD360073A9D7 /* CodableBootcamp.swift */; };
 		F7D96A03290D08D60073A9D7 /* DownloadWithEscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D96A02290D08D60073A9D7 /* DownloadWithEscapingBootcamp.swift */; };
 		F7D96A04290D08D60073A9D7 /* DownloadWithEscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D96A02290D08D60073A9D7 /* DownloadWithEscapingBootcamp.swift */; };
+		F7D96A06290D11580073A9D7 /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D96A05290D11580073A9D7 /* DownloadWithCombine.swift */; };
+		F7D96A07290D11580073A9D7 /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D96A05290D11580073A9D7 /* DownloadWithCombine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -82,6 +84,7 @@
 		F7D969FC2909526A0073A9D7 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 		F7D969FF290CCD360073A9D7 /* CodableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBootcamp.swift; sourceTree = "<group>"; };
 		F7D96A02290D08D60073A9D7 /* DownloadWithEscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingBootcamp.swift; sourceTree = "<group>"; };
+		F7D96A05290D11580073A9D7 /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +136,7 @@
 				F7D969F3290826500073A9D7 /* TypealiasBootcamp.swift */,
 				F7D969FF290CCD360073A9D7 /* CodableBootcamp.swift */,
 				F7D96A02290D08D60073A9D7 /* DownloadWithEscapingBootcamp.swift */,
+				F7D96A05290D11580073A9D7 /* DownloadWithCombine.swift */,
 				F7D969D129037EC50073A9D7 /* Sounds */,
 				F797E3DF28D8308900144F0B /* Assets.xcassets */,
 				F7D969C82900D9EC0073A9D7 /* Placeholder.swift */,
@@ -276,6 +280,7 @@
 				F7D969BB28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift in Sources */,
 				F797E3ED28D8308900144F0B /* SwiftUI_SkillsApp.swift in Sources */,
 				F7D969FD2909526A0073A9D7 /* EscapingBootcamp.swift in Sources */,
+				F7D96A06290D11580073A9D7 /* DownloadWithCombine.swift in Sources */,
 				F7D96A03290D08D60073A9D7 /* DownloadWithEscapingBootcamp.swift in Sources */,
 				F7D969EA2906E4FE0073A9D7 /* ArrayBootcamp.swift in Sources */,
 				F7D969B828F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */,
@@ -303,6 +308,7 @@
 				F7D969BC28F4F22A0073A9D7 /* MultipleSheetBootcamp.swift in Sources */,
 				F797E3EE28D8308900144F0B /* SwiftUI_SkillsApp.swift in Sources */,
 				F7D969FE2909526A0073A9D7 /* EscapingBootcamp.swift in Sources */,
+				F7D96A07290D11580073A9D7 /* DownloadWithCombine.swift in Sources */,
 				F7D96A04290D08D60073A9D7 /* DownloadWithEscapingBootcamp.swift in Sources */,
 				F7D969EB2906E4FE0073A9D7 /* ArrayBootcamp.swift in Sources */,
 				F7D969B928F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */,
