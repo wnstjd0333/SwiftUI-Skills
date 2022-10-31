@@ -11,6 +11,8 @@
 		F74D087828D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F74D087628D832810031BF5D /* LongPressGestureBootcamp.swift */; };
 		F76F754E290E5BA20005C3DC /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76F754D290E5BA20005C3DC /* TimerBootcamp.swift */; };
 		F76F754F290E5BA20005C3DC /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76F754D290E5BA20005C3DC /* TimerBootcamp.swift */; };
+		F76F7554290ED1DB0005C3DC /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76F7553290ED1DB0005C3DC /* SubscriberBootcamp.swift */; };
+		F76F7555290ED1DB0005C3DC /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76F7553290ED1DB0005C3DC /* SubscriberBootcamp.swift */; };
 		F797E3ED28D8308900144F0B /* SwiftUI_SkillsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F797E3DD28D8308800144F0B /* SwiftUI_SkillsApp.swift */; };
 		F797E3EE28D8308900144F0B /* SwiftUI_SkillsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F797E3DD28D8308800144F0B /* SwiftUI_SkillsApp.swift */; };
 		F797E3F128D8308900144F0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F797E3DF28D8308900144F0B /* Assets.xcassets */; };
@@ -62,6 +64,7 @@
 /* Begin PBXFileReference section */
 		F74D087628D832810031BF5D /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		F76F754D290E5BA20005C3DC /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
+		F76F7553290ED1DB0005C3DC /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
 		F797E3DD28D8308800144F0B /* SwiftUI_SkillsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_SkillsApp.swift; sourceTree = "<group>"; };
 		F797E3DF28D8308900144F0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F797E3E428D8308900144F0B /* SwiftUI-Skills.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Skills.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -124,6 +127,7 @@
 				F74D087628D832810031BF5D /* LongPressGestureBootcamp.swift */,
 				F7C9C6BB28F3F9F0008D76BB /* RotationGestureBootcamp.swift */,
 				F7C9C6BE28F3FC2E008D76BB /* DragGestureBootcamp.swift */,
+				F76F7553290ED1DB0005C3DC /* SubscriberBootcamp.swift */,
 				F7C9C6C128F4099D008D76BB /* DragGestureBootcamp2.swift */,
 				F7C9C6C428F46ECB008D76BB /* ScrollViewReaderBootcamp.swift */,
 				F7D969CB29036C010073A9D7 /* MaskBootcamp.swift */,
@@ -290,6 +294,7 @@
 				F7D969B828F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */,
 				F76F754E290E5BA20005C3DC /* TimerBootcamp.swift in Sources */,
 				F7C9C6C228F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
+				F76F7554290ED1DB0005C3DC /* SubscriberBootcamp.swift in Sources */,
 				F74D087728D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
 				F7D969F4290826500073A9D7 /* TypealiasBootcamp.swift in Sources */,
 				F7C9C6BF28F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
@@ -319,6 +324,7 @@
 				F7D969B928F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */,
 				F76F754F290E5BA20005C3DC /* TimerBootcamp.swift in Sources */,
 				F7C9C6C328F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
+				F76F7555290ED1DB0005C3DC /* SubscriberBootcamp.swift in Sources */,
 				F74D087828D832810031BF5D /* LongPressGestureBootcamp.swift in Sources */,
 				F7D969F5290826500073A9D7 /* TypealiasBootcamp.swift in Sources */,
 				F7C9C6C028F3FC2E008D76BB /* DragGestureBootcamp.swift in Sources */,
