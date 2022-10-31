@@ -13,6 +13,8 @@
 		F76F754F290E5BA20005C3DC /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76F754D290E5BA20005C3DC /* TimerBootcamp.swift */; };
 		F76F7554290ED1DB0005C3DC /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76F7553290ED1DB0005C3DC /* SubscriberBootcamp.swift */; };
 		F76F7555290ED1DB0005C3DC /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76F7553290ED1DB0005C3DC /* SubscriberBootcamp.swift */; };
+		F76F7557290FEFF70005C3DC /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76F7556290FEFF70005C3DC /* FileManagerBootcamp.swift */; };
+		F76F7558290FEFF70005C3DC /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76F7556290FEFF70005C3DC /* FileManagerBootcamp.swift */; };
 		F797E3ED28D8308900144F0B /* SwiftUI_SkillsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F797E3DD28D8308800144F0B /* SwiftUI_SkillsApp.swift */; };
 		F797E3EE28D8308900144F0B /* SwiftUI_SkillsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F797E3DD28D8308800144F0B /* SwiftUI_SkillsApp.swift */; };
 		F797E3F128D8308900144F0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F797E3DF28D8308900144F0B /* Assets.xcassets */; };
@@ -65,6 +67,7 @@
 		F74D087628D832810031BF5D /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		F76F754D290E5BA20005C3DC /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		F76F7553290ED1DB0005C3DC /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
+		F76F7556290FEFF70005C3DC /* FileManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootcamp.swift; sourceTree = "<group>"; };
 		F797E3DD28D8308800144F0B /* SwiftUI_SkillsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_SkillsApp.swift; sourceTree = "<group>"; };
 		F797E3DF28D8308900144F0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F797E3E428D8308900144F0B /* SwiftUI-Skills.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Skills.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -144,6 +147,7 @@
 				F7D969FF290CCD360073A9D7 /* CodableBootcamp.swift */,
 				F7D96A02290D08D60073A9D7 /* DownloadWithEscapingBootcamp.swift */,
 				F7D96A05290D11580073A9D7 /* DownloadWithCombine.swift */,
+				F76F7556290FEFF70005C3DC /* FileManagerBootcamp.swift */,
 				F76F754D290E5BA20005C3DC /* TimerBootcamp.swift */,
 				F7D969D129037EC50073A9D7 /* Sounds */,
 				F797E3DF28D8308900144F0B /* Assets.xcassets */,
@@ -292,6 +296,7 @@
 				F7D96A03290D08D60073A9D7 /* DownloadWithEscapingBootcamp.swift in Sources */,
 				F7D969EA2906E4FE0073A9D7 /* ArrayBootcamp.swift in Sources */,
 				F7D969B828F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */,
+				F76F7557290FEFF70005C3DC /* FileManagerBootcamp.swift in Sources */,
 				F76F754E290E5BA20005C3DC /* TimerBootcamp.swift in Sources */,
 				F7C9C6C228F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
 				F76F7554290ED1DB0005C3DC /* SubscriberBootcamp.swift in Sources */,
@@ -322,6 +327,7 @@
 				F7D96A04290D08D60073A9D7 /* DownloadWithEscapingBootcamp.swift in Sources */,
 				F7D969EB2906E4FE0073A9D7 /* ArrayBootcamp.swift in Sources */,
 				F7D969B928F478C60073A9D7 /* GeometryReaderBootcamp.swift in Sources */,
+				F76F7558290FEFF70005C3DC /* FileManagerBootcamp.swift in Sources */,
 				F76F754F290E5BA20005C3DC /* TimerBootcamp.swift in Sources */,
 				F7C9C6C328F4099D008D76BB /* DragGestureBootcamp2.swift in Sources */,
 				F76F7555290ED1DB0005C3DC /* SubscriberBootcamp.swift in Sources */,
